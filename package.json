@@ -1,0 +1,17 @@
+{
+  "name": "ecmascript6__new_features",
+  "version": "1.0.0",
+  "description": "Test exercises based on http://es6-features.org : ECMAScript 6 — New Features: Overview & Comparison",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "ECMAScript",
+    "ES6",
+    "js"
+  ],
+  "author": "Reny Alvarado",
+  "license": "MIT"
+}
